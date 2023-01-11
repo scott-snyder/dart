@@ -38,7 +38,6 @@ if(DART_IN_SOURCE_BUILD)
       LINK_LIBRARIES ${required_libraries}
       COMPILE_FEATURES cxx_std_14
     )
-  endif()
   return()
 endif()
 
